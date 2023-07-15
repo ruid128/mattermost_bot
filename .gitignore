@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Log files
+*.log
+
+# Environment variables file
+.env
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Dependency directories
+/openai-gpt/.venv/
